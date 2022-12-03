@@ -7,14 +7,14 @@ Every persistent data generated and saved by the game are saved on your own devi
 
 # Advertisement
 Every advertisement in the game is managed and shown by **Google AdMob**.
-Google AdMob is provided by Google Inc.
+**Google AdMob** is provided by Google Inc.
 
-You can opt-out from Google AdMob by following the
-instructions described by Google Inc. on the following link:
-https://support.google.com/ads/answer/2662922?hl=en
+You can opt-out from **Google AdMob** by following the
+instructions described by Google on the following link:
+[https://support.google.com/ads/answer/2662922?hl=en](https://support.google.com/ads/answer/2662922?hl=en)
 
 For more information on how Google uses the collected information,
 please visit the "How Google uses data when you use our partners'
-sites or app" page: https://www.google.com/policies/privacy/partners/
+sites or app" page: [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/)
 or visit the Privacy Policy of Google:
-https://www.google.com/policies/privacy/
+[https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)
